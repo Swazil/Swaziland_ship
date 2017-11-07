@@ -1,2 +1,2 @@
-strin
+stroke
 Hello!!!
