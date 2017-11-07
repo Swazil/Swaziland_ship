@@ -1,2 +1,2 @@
-stroke
+string 11
 Hello!!!
