@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 string 11
+=======
+strin
+>>>>>>> parent of b02cba2... Few fixes
 Hello!!!
